@@ -1,0 +1,5 @@
+project_path=/Users/alessio/Desktop/public_git_repo/NOSTRUM/NOSTRUM-SurrogateModel4BladeDesign/
+pointsPerParam=6;
+nk=100;
+iterMax=200;
+tolerance=0.001;

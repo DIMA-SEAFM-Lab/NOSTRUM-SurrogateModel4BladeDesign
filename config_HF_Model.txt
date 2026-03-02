@@ -1,0 +1,13 @@
+blade_file_name=R10_BLADE_FILE.dat
+aerodyn_path=/Users/alessio/Desktop/numerical_tools/openfast/openfast/install/bin/aerodyn_driver
+twistID=5;
+chordID=6;
+spanID=1;
+torsionStartID=15;
+rotCpChannel=26;
+CP_indices=5
+12, 21, 30, 39, 49;
+UB=6
+10.0, 5.0, 4.0, 3.0, 2.0, 3.0;
+LB=6
+4.0, -1.0, -2.0, -3.0, -2.0, 0.0;

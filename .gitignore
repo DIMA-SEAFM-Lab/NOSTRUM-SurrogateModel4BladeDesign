@@ -1,0 +1,15 @@
+build/*
+LOG_Files/*
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+*.out
+*.outb
+build/
+*.m
+*.sh
