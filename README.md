@@ -132,6 +132,8 @@ Visit at: https://nostrum-project.it
 
 # References 
 
+This repository is linked to Zenodo. Please use the following doi for reference: 10.5281/zenodo.18891157
+
 [1] Cardamone, R., Broglia, R., Papi, F., Rispoli, F., Corsini, A., Bianchini, A., & Castorrini, A. (2025). Aerodynamic design of wind turbine blades using multi-fidelity analysis and surrogate models. International Journal of Turbomachinery, Propulsion and Power, 10(3), 16. https://doi.org/10.3390/ijtpp10030016
 
 [2] Castorrini, A., Papi, F., Bianchini, A., Broglia, R., Rispoli, F., Ferrara, G., Lugni, C., & Cardamone, R. (2026). NOSTRUM - Optimizing Floating Offshore Wind Turbines For Use In The Mediterranean Sea - TECHNICAL REPORTS - Part 2. Zenodo. https://doi.org/10.5281/zenodo.18620593
